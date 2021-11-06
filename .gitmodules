@@ -1,0 +1,3 @@
+[submodule "public/resources/webgl_collection"]
+	path = public/resources/webgl_collection
+	url = https://github.com/sebastianolmos/webgl_collection.git
