@@ -1,3 +1,6 @@
 [submodule "public/resources/webgl_collection"]
 	path = public/resources/webgl_collection
 	url = https://github.com/sebastianolmos/webgl_collection.git
+[submodule "public/resources/threejs_collection"]
+	path = public/resources/threejs_collection
+	url = https://github.com/sebastianolmos/threejs_collection.git
