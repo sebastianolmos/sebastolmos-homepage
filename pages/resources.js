@@ -26,7 +26,7 @@ const Resources = () => (
           <GridItem
             title="WebGL Collection"
             thumbnail={thumbWebgl}
-            href="https://github.com/sebastianolmos/opengl_cpp"
+            href="/resources/webgl_collection/index.html"
             >
                 Aplicaciones con diferentes funcionalidades implementadas con WebGL 1
             </GridItem>
@@ -38,7 +38,7 @@ const Resources = () => (
           <GridItem
             title="Three.js collection"
             thumbnail={thumbThreejs}
-            href="https://github.com/sebastianolmos/opengl_cpp"
+            href="/resources/threejs_collection/index.html"
           >
                 Aplicaciones con diferentes funcionalidades implementadas con Three.js.
             </GridItem>
