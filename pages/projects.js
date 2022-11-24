@@ -10,6 +10,7 @@ import thumbFinalreality from '../public/images/projects/finalreality_eyecatch.p
 import thumbGameoflife from '../public/images/projects/gameoflife_eyecatch.png'
 import thumbSeaanimation from '../public/images/projects/seaanimation_eyecatch.png'
 import thumbParticlesim from '../public/images/projects/particlesystem_eyecatch.png'
+import thumbJourneyEngine from '../public/images/projects/journeyEngine_eyecatch.png'
 
 const Projects = () => (
   <Layout title="Projects">
@@ -59,6 +60,12 @@ const Projects = () => (
         <Section delay={0.3}>
             <WorkGridItem id="particlesystem" title="Particle System" thumbnail={thumbParticlesim}>
             Simulación de partículas en un espacio 3D, utilizando programación en GPU con CUDA, alcanzando medio millón de partículas
+            </WorkGridItem>
+        </Section>
+
+        <Section delay={0.3}>
+            <WorkGridItem id="journeyEngine" title="JourneyEngine" thumbnail={thumbJourneyEngine}>
+            Motor de videojuegos 3D creado en C++ y OpenGL, con el fin de poder crear juegos de aventura
             </WorkGridItem>
         </Section>
 

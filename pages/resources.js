@@ -19,7 +19,7 @@ const Resources = () => (
           <GridItem
             title="OpenGL - C++ Collection"
             thumbnail={thumbOpenglcpp}
-            href="https://github.com/sebastianolmos/opengl_cpp"
+            href="https://github.com/sebastianolmos/cgraphics_cpp"
           >
             Programas con diferentes funcionalidades implementadas con OpenGL y GLFW.
           </GridItem>
