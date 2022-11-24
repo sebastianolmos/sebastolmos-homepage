@@ -25,6 +25,10 @@ const Project = () => (
                     <span>OpenGL, GLFW, Assimp, OpenAL</span>
                 </ListItem>
                 <ListItem>
+                    <Meta>Software</Meta>
+                    <span>Visual Studio Code, Visual Studio 2019</span>
+                </ListItem>
+                <ListItem>
                     <Meta>Source</Meta>
                     <Link href="https://github.com/sebastianolmos/JourneyEngine">
                     https://github.com/sebastianolmos/JourneyEngine <ExternalLinkIcon mx="2px" />

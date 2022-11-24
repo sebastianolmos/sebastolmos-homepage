@@ -11,6 +11,7 @@ import thumbGameoflife from '../public/images/projects/gameoflife_eyecatch.png'
 import thumbSeaanimation from '../public/images/projects/seaanimation_eyecatch.png'
 import thumbParticlesim from '../public/images/projects/particlesystem_eyecatch.png'
 import thumbJourneyEngine from '../public/images/projects/journeyEngine_eyecatch.png'
+import thumbVoronoiTerrain from '../public/images/projects/voronoi_eyecatch.png'
 
 const Projects = () => (
   <Layout title="Projects">
@@ -60,6 +61,12 @@ const Projects = () => (
         <Section delay={0.3}>
             <WorkGridItem id="particlesystem" title="Particle System" thumbnail={thumbParticlesim}>
             Simulación de partículas en un espacio 3D, utilizando programación en GPU con CUDA, alcanzando medio millón de partículas
+            </WorkGridItem>
+        </Section>
+
+        <Section delay={0.3}>
+            <WorkGridItem id="voronoiTerrain" title="Voronoi Terrain" thumbnail={thumbVoronoiTerrain}>
+            Generador de terrenos 3D aleatorio a partir de diagramas de Voronoi, corre en el navegador
             </WorkGridItem>
         </Section>
 
