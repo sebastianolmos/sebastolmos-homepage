@@ -157,7 +157,7 @@ const Home = () => (
         <List>
         <ListItem>
             Escribir a :   
-            <Link href="mailto:sebastianolmos@gmail.com" target="_blank">
+            <Link href="mailto:sebastolmos@gmail.com" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="green"
